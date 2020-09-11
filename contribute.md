@@ -19,7 +19,7 @@ A category is just a folder with the name of the category, navigate to the categ
 
 From here, you can edit the file.
 
-![](./.gitbook/assets/image.png)
+![](./.gitbook/assets/example.png)
 
 This is an example page, and this is the source:
 
