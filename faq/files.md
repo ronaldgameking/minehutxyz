@@ -4,13 +4,13 @@ description: An informative list on the allowed file types on Minehut.
 
 # Allowed file types
 
-## OVEWVIEW
+**OVERVIEW**
 
-Due to security issues, Minehut does not allow you to upload certian file types and in certian directories. For example you are unable to upload your own plugins to your Minehut server.
+Due to security reasons, you cannot upload certain file types to your servers.
 
-## ALLOWED FILE TYPES
+**ALLOWED FILE TYPES**
 
-```text
+```
 .yml
 .json
 .txt
@@ -26,8 +26,4 @@ Due to security issues, Minehut does not allow you to upload certian file types 
 .mcmeta
 .dat
 .conf
-
 ```
-
-
-
