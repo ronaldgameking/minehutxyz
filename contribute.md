@@ -39,13 +39,15 @@ Text
 Text
 ```
 
-To add a **description** to your page, add: ```
+To add a **description** to your page, add:
+```
 ---
 description: Description for your page!
 ---
 ```
 
-To add a **title** to your page, add: ```
+To add a **title** to your page, add:
+```
 # title for your page
 ```
 
