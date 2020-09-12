@@ -34,4 +34,4 @@
 * [Commands](skript/commands.md)
 * [Variables](skript/variables.md)
 * [Functions](skript/functions.md)
-
+* [Comments](skript/comments.md)
