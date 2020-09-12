@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Minehut.xyz](main.md)
+* [Minehut.xyz](README.md)
 * [Contribute](contribute.md)
 
 ## Popular Questions <a id="faq"></a>
