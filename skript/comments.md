@@ -1,4 +1,4 @@
-# Comments
+## Comments
 
 Comments are segments of your code that Skript will ignore, it's useful for taking notes directly in your code, without it interfering the outcome of your code.
 You can write a comment in your code by putting "# (some text here!)"
