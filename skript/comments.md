@@ -1,3 +1,11 @@
+---
+description: Learn how comments and special characters work.
+---
+
+# Comments
+
+## What are comments?
+
 Comments are segments of your code that Skript will ignore, it's useful for taking notes directly in your code, without it interfering the outcome of your code.
 You can write a comment in your code by putting "# (some text here!)"
 
