@@ -14,11 +14,11 @@ Luckperms is a group managing plugin that is usually recommended to be used on M
 
 ## DEPENDENCIES
 
-There are a few things you need to set everything up, of course you will need LuckPerms but for prefixes and suffixes you will also need Essentials, EssentialsChat and Vault.
+This plugin does not have any dependencies right out of the box, but you'll want to note that if you would like to use prefixes and suffixes, you'll need Essentials, EssentialsChat and Vault. 
 
 ## SETUP
 
-LuckPerms has an online editor and an ingame editor \(uses commands\) but today I'll mostly be explaining all the commands The group we will be creating will be called 'Example' but you can name this whatever you want, keep in mind that there is already a default group that exists, if you want to add permissions to that group just skip to the giving permissions part.
+LuckPerms has an online editor that you can learn more about with [here!]()and an ingame editor \(uses commands\) but today I'll mostly be explaining all the commands The group we will be creating will be called 'Example' but you can name this whatever you want, keep in mind that there is already a default group that exists, if you want to add permissions to that group just skip to the giving permissions part. 
 
 ## CREATING A GROUP
 
