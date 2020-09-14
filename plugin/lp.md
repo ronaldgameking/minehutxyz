@@ -18,7 +18,7 @@ This plugin does not have any dependencies right out of the box, but you'll want
 
 ## SETUP
 
-LuckPerms has an online editor that is great and easy to use. Learn the demo [here!](https://luckperms.net/editor). There is also an ingame editor \(uses commands\) but today I'll mostly be explaining all the commands The group we will be creating will be called 'Example' but you can name this whatever you want, keep in mind that there is already a default group that exists, if you want to add permissions to that group just skip to the giving permissions part. 
+LuckPerms has an online editor that you can learn more about with [here!]()and an ingame editor \(uses commands\) but today I'll mostly be explaining all the commands The group we will be creating will be called 'Example' but you can name this whatever you want, keep in mind that there is already a default group that exists, if you want to add permissions to that group just skip to the giving permissions part.
 
 ## CREATING A GROUP
 
@@ -51,4 +51,3 @@ So for us this will turn into: `/lp user Steve parent set Example`
 Now everything should be set up, of course there is much more to this plugin than just these commands, any other commands can be found [here](https://github.com/lucko/LuckPerms/wiki/Command-Usage).
 
 I also **highly** recommend checking out the online editor, this can be found using `/lp editor`in game and is a lot easier to use!
-
