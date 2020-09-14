@@ -18,10 +18,11 @@
 
 ## Plugin Tutorials <a id="plugin"></a>
 
+* [Recommended Plugins](plugin/rccplugins.md)
 * [WorldEdit](plugin/worldedit.md)
-* [PermissionsEx](plugin/pex.md)
-* [LuckPerms](plugin/lp.md)
 * [WorldGuard](plugin/worldguard.md)
+* [LuckPerms](plugin/lp.md)
+* [PermissionsEx](plugin/pex.md)
 * [CoreProtect](plugin/coreprotect.md)
 * [RedProtect](plugin/redprotect.md)
 * [GroupManager](plugin/gm.md)
