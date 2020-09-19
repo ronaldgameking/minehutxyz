@@ -6,9 +6,7 @@ description: >-
 
 # Minehut.xyz
 
-{% hint style="warning" %}
 **Join our** [**Discord Server**](https://discord.gg/WjuNvdM) **to contribute to the site, be informed when new tutorials are uploaded, and other things.**
-{% endhint %}
 
 ## OUR AIM
 
@@ -24,5 +22,5 @@ This section is completely directed towards plugins. Each post gives an overview
 
 ## ABOUT US
 
-Minehut.xyz was founded on ****_August 4th, 2020_ by two members of the Minehut Community, **Tarna** _\(Senior Support @ Minehut\)_ & **Minehut** _\(Adam, Support @ Minehut\)_.
+Minehut.xyz was founded on **_August 4th, 2020_** by two members of the Minehut Community, **Tarna** _\(Senior Support @ Minehut\)_ & **Minehut** _\(Adam, Support @ Minehut\)_.
 
