@@ -15,7 +15,7 @@
 * [Uploading Worlds](faq/ul-worlds.md)
 * [Allowed file types](faq/files.md)
 * [Resource Packs](faq/resourcepacks.md)
-* [Custom Domain](domain.md)
+* [Custom Domain](faq/domain.md)
 
 ## Plugin Tutorials <a id="plugin"></a>
 
