@@ -4,11 +4,11 @@
 description: How to connect a custom domain to your Minehut server.
 ---
 
-#OVERVIEW
+## OVERVIEW
 
 A custom domain is a domain that is made up of what you want such as example.com. Today I will be teaching you how to connect your custom domain with minehut.
 
-#HOW TO CONNECT YOUR CUSTOM DOMAIN
+## HOW TO CONNECT YOUR CUSTOM DOMAIN
 
 First, you will need a **custom domain**, for this guide we will be using CloudFlare.
 
@@ -20,4 +20,4 @@ Third, **Click** on your domain, after doing that you should see this page https
 
 After that, **press** on DNS on the top of the website. Then press on **add record**. Under Type choose SRV it must look like this https://imgur.com/a/efJubea.
 
-Finally you must fill out the Fields. Names is what will be used as the ip **@** will be your raw domain example: candymine.tk, you must also set Service to **_minecraft**, Priority **1**, weight **1**, and port **25565** and set Target to **the targeted server** for example: minehut.com. It should look something like this: https://imgur.com/a/FImS97r. Then **press save** now you can join your server through your custom domain!
+Finally you must fill out the Fields. Names is what will be used as the ip **@** will be your raw domain example: candymine.tk, you must also set Service to **_minecraft_**, Priority **1**, weight **1**, and port **25565** and set Target to **the targeted server** for example: minehut.com. It should look something like this: https://imgur.com/a/FImS97r. Then **press save** now you can join your server through your custom domain!
