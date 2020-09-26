@@ -11,7 +11,7 @@
 * [Creating a Flat World](faq/flat-world.md)
 * [Creating a Void World](faq/void-world.md)
 * [Installing Plugins](faq/plugins.md)
-* [Downloading Worlds](faq/dl.md)
+* [Downloading](faq/dl.md)
 * [Uploading Worlds](faq/ul.md)
 * [Allowed file types](faq/files.md)
 * [Resource Packs](faq/resourcepacks.md)
