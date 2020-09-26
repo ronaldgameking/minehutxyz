@@ -46,3 +46,4 @@
 * [Comments](skript/comments.md)
 * [Syntax](skript/syntax.md)
 * [Example: Format Chat](skript/format-chat.md)
+* [Example: Join & Quit Messages](skript/custom-messages.md)
