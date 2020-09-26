@@ -11,7 +11,7 @@ You will need a GitHub account for this.
 
 ## How to make a pull request
 
-To make a pull request, you need to make a fork of the Minehut XYZ repository.
+To make a pull request, you need to make a fork of the **minehutxyz** repository.
 
 To fork the repository, click the `Fork` button at the top right of the page.
 
