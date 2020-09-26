@@ -16,6 +16,7 @@
 * [Allowed file types](faq/files.md)
 * [Resource Packs](faq/resourcepacks.md)
 * [Custom Domain](faq/domain.md)
+* [Account Deletion](faq/acc-delete.md)
 
 ## Plugin Tutorials <a id="plugin"></a>
 
@@ -28,7 +29,7 @@
 * [RedProtect](plugin/redprotect.md)
 * [GroupManager](plugin/gm.md)
 
-## skript
+## Skript
 
 * [Basics](skript/basics.md)
 * [Events](skript/events.md)
