@@ -17,6 +17,7 @@
 * [Resource Packs](faq/resourcepacks.md)
 * [Custom Domain](faq/domain.md)
 * [Bedrock Edition](faq/bedrock.md)
+* [Default World](faq/default-world.md)
 * [Account Deletion](faq/acc-delete.md)
 
 ## Plugin Tutorials <a id="plugin"></a>
