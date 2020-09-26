@@ -10,4 +10,4 @@ Minehut may have a few bugs, especially when new updates roll out.
 
 ## REPORTING A BUG
 
-Minehut uses GitHub *(like us)*, to keep track of bugs. You can report bugs (here)[https://github.com/Minehut/Meta].
+Minehut uses GitHub *(like us)*, to keep track of bugs. You can report bugs [here](https://github.com/Minehut/Meta).
