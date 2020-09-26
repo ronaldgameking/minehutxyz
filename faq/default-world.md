@@ -4,7 +4,7 @@ description: How to set a default world on your server.
 
 # Default World
 
-# OVERVIEW
+## OVERVIEW
 
 Before you can set a default world, you must have uploaded the world you want to be the default one uploaded to your server. *[Visit [this tutorial](https://minehut.xyz/faq/ul) for more information on uploading worlds]*.
 
