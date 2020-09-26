@@ -18,6 +18,7 @@
 * [Custom Domain](faq/domain.md)
 * [Bedrock Edition](faq/bedrock.md)
 * [Default World](faq/default-world.md)
+* [Server Operator](faq/op.md)
 * [Account Deletion](faq/acc-delete.md)
 
 ## Plugin Tutorials <a id="plugin"></a>
