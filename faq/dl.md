@@ -1,5 +1,5 @@
 ---
-description: Learn how to use the /dl command, and download your world.
+description: Learn how to use the /dl command.
 ---
 
 # Downloading
