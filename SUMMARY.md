@@ -19,6 +19,7 @@
 * [Custom Domain](faq/domain.md)
 * [Bedrock Edition](faq/bedrock.md)
 * [Default World](faq/default-world.md)
+* [Bugs](faq/bugs.md)
 * [Timings](faq/timings.md)
 * [Account Deletion](faq/acc-delete.md)
 
