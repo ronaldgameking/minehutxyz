@@ -11,6 +11,7 @@
 * [Installing Plugins](faq/plugins.md)
 * [Permissions](faq/permissions.md)
 * [Server Version](faq/server-version.md)
+* [Server Operator](faq/op.md)
 * [Creating a Flat World](faq/flat-world.md)
 * [Creating a Void World](faq/void-world.md)
 * [Allowed File types](faq/files.md)
@@ -18,7 +19,7 @@
 * [Custom Domain](faq/domain.md)
 * [Bedrock Edition](faq/bedrock.md)
 * [Default World](faq/default-world.md)
-* [Server Operator](faq/op.md)
+* [Timings](faq/timings.md)
 * [Account Deletion](faq/acc-delete.md)
 
 ## Plugin Tutorials <a id="plugin"></a>
