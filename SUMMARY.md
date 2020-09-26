@@ -6,16 +6,17 @@
 ## Popular Questions <a id="faq"></a>
 
 * [Logs](faq/logs.md)
+* [Downloading](faq/dl.md)
+* [Uploading Worlds](faq/ul.md)
+* [Installing Plugins](faq/plugins.md)
 * [Permissions](faq/permissions.md)
 * [Server Version](faq/server-version.md)
 * [Creating a Flat World](faq/flat-world.md)
 * [Creating a Void World](faq/void-world.md)
-* [Installing Plugins](faq/plugins.md)
-* [Downloading](faq/dl.md)
-* [Uploading Worlds](faq/ul.md)
-* [Allowed file types](faq/files.md)
+* [Allowed File types](faq/files.md)
 * [Resource Packs](faq/resourcepacks.md)
 * [Custom Domain](faq/domain.md)
+* [Bedrock Edition](faq/bedrock.md)
 * [Account Deletion](faq/acc-delete.md)
 
 ## Plugin Tutorials <a id="plugin"></a>
