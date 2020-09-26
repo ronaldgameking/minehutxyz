@@ -6,7 +6,7 @@ description: How to report a bug you've found.
 
 ## OVERVIEW
 
-Minehut may have a few bugs, especially when new updates roll out.
+Minehut may have a few bugs, especially when new updates roll out. This means when a user reports a bug, it will help keep Minehut bug-free.
 
 ## REPORTING A BUG
 
