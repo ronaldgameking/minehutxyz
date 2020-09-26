@@ -12,7 +12,7 @@
 * [Creating a Void World](faq/void-world.md)
 * [Installing Plugins](faq/plugins.md)
 * [Downloading Worlds](faq/dl-worlds.md)
-* [Uploading Worlds](faq/ul-worlds.md)
+* [Uploading Worlds](faq/ul.md)
 * [Allowed file types](faq/files.md)
 * [Resource Packs](faq/resourcepacks.md)
 * [Custom Domain](faq/domain.md)
