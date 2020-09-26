@@ -9,7 +9,7 @@ description: How to make a user a Server Operator.
 Being a server operator allows you to run most of the general commands the server has, including the dangerous ones.
 Only give operator to people you trust!
 
-## HOW TO OP SOMEONE
+## HOW TO OP A USER
 
 ```
 JAVA: /op (username)
